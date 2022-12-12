@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author amezacar
+ *
+ */
+module MaestroObjetos {
+}
